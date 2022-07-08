@@ -5,7 +5,7 @@
 <!-- 个人资料徽标 -->
   <a href="https://juejin.cn/user/624178334277752/posts"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=LiamFive" alt="访客统计" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=LiamWu50" alt="访客统计" />
 
 </div>
 
