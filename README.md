@@ -5,8 +5,7 @@
 <!-- 个人资料徽标 -->
   <a href="https://juejin.cn/user/624178334277752/posts"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  ![](https://komarev.com/ghpvc/?username=LiamWu50&color=brightgreen)
-
+  <img src="https://komarev.com/ghpvc/?username=LiamWu50&color=brightgreen">
 </div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LiamWu50&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
@@ -16,7 +15,7 @@
 - :orange_book: Focusing on Web development
 - 🌱 掘金：[Liam_wu](https://juejin.cn/user/624178334277752/posts)
 - 🤔 博客：博客在建中了~
-- 😄 2022 Flag：学会一门后端语言
+- 😄 2023 Flag：学会一门后端语言
 
 
 🖋 正在学习: 
