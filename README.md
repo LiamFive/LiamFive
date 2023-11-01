@@ -14,8 +14,8 @@
 
 - :orange_book: Focusing on Web development
 - 🌱 掘金：[Liam_wu](https://juejin.cn/user/624178334277752/posts)
-- 🤔 博客：博客在建中了~
-- 😄 2023 Flag：学会一门后端语言
+- 🤝 微信：Liam_sagittarius
+- 😄 2023 Flag：学会ThreeJS
 
 
 🖋 正在学习: 
